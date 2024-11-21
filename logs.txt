@@ -1,0 +1,26 @@
+[2024-11-21T14:44:14.793Z] This is a log message!
+[2024-11-21T14:45:20.434Z] this is my own console log
+[2024-11-21T14:45:25.053Z] this is my own console log
+[2024-11-21T14:45:25.819Z] this is my own console log
+[2024-11-21T14:45:26.623Z] this is my own console log
+[2024-11-21T14:45:37.004Z] my name is olimjon
+[2024-11-21T14:45:38.705Z] my name is olimjon
+[2024-11-21T14:45:38.913Z] my name is olimjon
+[2024-11-21T14:45:39.111Z] my name is olimjon
+[2024-11-21T14:45:39.305Z] my name is olimjon
+[2024-11-21T14:45:39.499Z] my name is olimjon
+[2024-11-21T14:45:39.701Z] my name is olimjon
+[2024-11-21T14:45:39.910Z] my name is olimjon
+[2024-11-21T14:45:40.120Z] my name is olimjon
+[2024-11-21T14:45:40.325Z] my name is olimjon
+[2024-11-21T14:45:40.536Z] my name is olimjon
+[2024-11-21T14:45:40.731Z] my name is olimjon
+[2024-11-21T14:45:40.931Z] my name is olimjon
+[2024-11-21T14:45:49.776Z] bla bla bla bla bla
+[2024-11-21T14:45:54.090Z] bla bla bla bla bla
+[2024-11-21T14:45:54.716Z] bla bla bla bla bla
+[2024-11-21T14:45:54.966Z] bla bla bla bla bla
+[2024-11-21T14:45:55.156Z] bla bla bla bla bla
+[2024-11-21T14:45:55.386Z] bla bla bla bla bla
+[2024-11-21T14:47:05.003Z] her name is Aziz
+[2024-11-21T14:47:06.817Z] her name is Aziz
